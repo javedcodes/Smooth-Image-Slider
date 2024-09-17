@@ -26,7 +26,7 @@ These technologies ensure that the slider is fully functional, responsive, and c
 
 ## Google Drive Direct Download Link Generator Tool
 
-Looking for a powerful tool to generate direct download links from Google Drive? Check out the **[Google Drive Direct Download Link Generator]([#](https://jvcodes.com/google-drive-direct-download-link-generator/)**.
+Looking for a powerful tool to generate direct download links from Google Drive? Check out the **[Google Drive Direct Download Link Generator](https://jvcodes.com/google-drive-direct-download-link-generator/)**.
 
 ## Video Guide
 
